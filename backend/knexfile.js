@@ -1,16 +1,27 @@
-// Update with your config settings.
+const path = require ('path');
+
+module.exports = {
+  client: 'sqlite3',
+  connection: {
+    filename: path.resolve(__dirname, 'src','database', 'database.sqlite'),
+  },
+  migrations: {
+    directory: path.resolve(__dirname, 'src', 'database', 'migrations'),
+  },
+  useNullAsDefault: true,
+}
+
+
+
+/* Update with your config settings.
 
 module.exports = {
 
   development: {
     client: 'sqlite3',
     connection: {
-      filename: './src/database/db.sqlite'
-    },
-    migrations: {
-      directory: './src/database/migrations'
-    },
-    useNullAsDefault: true,
+      filename: './dev.sqlite3'
+    }
   },
 
   staging: {
@@ -43,6 +54,7 @@ module.exports = {
     migrations: {
       tableName: 'knex_migrations'
     }
-  }
-
+  },
+  useNullAsDefault: true,
 };
+*/
