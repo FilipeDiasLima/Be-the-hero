@@ -45,13 +45,19 @@
  ``` yarn start ``` <br/>
  Agora com o projeto web rodando, a página será aberta automaticamente e poderá usar o como uma ONG
  Para testar como um usuário "comum", navegue até a pasta **mobile**
+ <br/>
  ``` #Execute o comando ```<br/>
  ``` expo start ```<br/>
  Pronto, baixe o **aplicativo expo** na Store de seu smartphone e leia o QRCODE exibido na aba do navegador que o **expo** abriu quando foi executado o comando ou use um emulador.
  
  # :desktop_computer:	Layout
+  
+  ### Web
  
- 
+  <img src="assets/loginScreen.png" width="420" style="padding: 2px"></img>
+  <img src="assets/registerScreen.png" width="420" ></img>
+  <img src="assets/incidentList.png" width="420" style="padding: 2px" ></img>
+  <img src="assets/incidentRegister.png" width="420" ></img>
  
  # :bookmark:	Créditos
  
