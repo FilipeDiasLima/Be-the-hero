@@ -61,7 +61,12 @@
   
   ### Mobile
   
-  <img src="assets/loginScreen.png" width="420" style="padding: 2px"></img>
+  <br/>
+  
+   <h3 align="center">
+    <img src="assets/incidentsMobile.png" width="200" ></img>
+    <img src="assets/detailsMobile.png" width="200"></img>
+   </h3>
  
  # :bookmark:	Creditos
  
