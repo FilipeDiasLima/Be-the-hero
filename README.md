@@ -63,7 +63,10 @@
   
   <br/>
   
-  <img src="assets/incidentsMobile.png" width="200" style="padding: 2px"></img>
+   <h3 align="center">
+    <img src="assets/incidentsMobile.png" width="200" ></img>
+    <img src="assets/detailsMobile.png" width="200"></img>
+   </h3>
  
  # :bookmark:	Creditos
  
