@@ -14,7 +14,7 @@
  
  <br>
  
- # Resumo do projeto
- # Tecnologias e Ferramentas
- # Como rodar a aplicação
- # Layout
+ # :page_facing_up:	Resumo do projeto
+ # :computer:	Tecnologias e Ferramentas
+ # :dvd:	Como rodar a aplicação
+ # :desktop_computer:	Layout
