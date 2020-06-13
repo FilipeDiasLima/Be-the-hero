@@ -61,4 +61,4 @@
  
  # :bookmark:	Creditos
  
- O projeto "base" foi desenvolvido na Semana Omnistack 11.0, feita pelo Rocketseat(instr. Diego Fernandes), 
+ O projeto "base" foi desenvolvido na Semana Omnistack 11.0, feita pelo Rocketseat(instr. Diego Fernandes).
