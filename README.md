@@ -59,6 +59,6 @@
   <img src="assets/incidentList.png" width="420" style="padding: 2px" ></img>
   <img src="assets/incidentRegister.png" width="420" ></img>
  
- # :bookmark:	Créditos
+ # :bookmark:	Creditos
  
  O projeto "base" foi desenvolvido na Semana Omnistack 11.0, feita pelo Rocketseat(instr. Diego Fernandes), 
