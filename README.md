@@ -54,10 +54,12 @@
   
   ### Web
  
-  <img src="assets/loginScreen.png" width="420" style="padding: 2px"></img>
-  <img src="assets/registerScreen.png" width="420" ></img>
-  <img src="assets/incidentList.png" width="420" style="padding: 2px" ></img>
-  <img src="assets/incidentRegister.png" width="420" ></img>
+  <div align="center">
+   <img src="assets/loginScreen.png" width="500" style="padding: 2px"></img>
+   <img src="assets/registerScreen.png" width="500" ></img>
+   <img src="assets/incidentList.png" width="500" style="padding: 2px" ></img>
+   <img src="assets/incidentRegister.png" width="500" ></img>
+  </div>
   
   ### Mobile
   
